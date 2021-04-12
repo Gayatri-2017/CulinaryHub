@@ -1,7 +1,6 @@
-# CulinaryHub
-Our Prototype for Cooking Learning Application
+<img src="./readme_images/logo.png" alt="logo" height="100"/>  <h1> CulinaryHub </h1>
 
-![logo](./readme_images/logo.png)
+Our Prototype for Cooking Learning Application
 
 Instructions - to run the app:
 
