@@ -1,6 +1,8 @@
 # CulinaryHub
 Our Prototype for Cooking Learning Application
 
+(./readme_images/logo.png)
+
 Instructions - to run the app:
 
 Anytime during the navigation, if you wish to return to the first page of any screen, you can do so by clicking on the corresponding tab in the navigation bar on the bottom of the screen. 
@@ -120,3 +122,14 @@ Due to some of the  limitations in Figma, we took the following considerations i
 7. There was no option to show a temporary Toast message in Figma as in mobile phones. So, the user needs to click on the message to hide it. 
 8. Clicking on the closed state of the drop-down can lead to an unstable state which is not expected from the actual UI
 9. After ending the Live Learning session, the rating dialog pops up. Clicking on the ratings leads to a 5 star-rating. This is kept constant for now to reduce the complexity, but ideally, all intermediate ratings are possible for the application.
+
+
+## Designers
+
+* [Abhishek Sundar Raman](https://www.linkedin.com/in/abhisheksundarraman/) (asundarr@sfu.ca)
+* [Anchal Jain](https://www.linkedin.com/in/anchal-jain-6b76863/) (anchalj@sfu.ca)
+* [Cong Yuan](https://www.linkedin.com/in/cong-yuan-737a0115a/) (cong_yuan@sfu.ca)
+* [Gayatri Ganapathy](https://www.linkedin.com/in/gayatriganapathy/) (gganapat@sfu.ca)
+* [Mohammad Ganji](https://www.linkedin.com/in/mohganji/) (m_ganji@sfu.ca)
+
+(./readme_images/project_team.png)
