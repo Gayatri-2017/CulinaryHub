@@ -131,4 +131,5 @@ Due to some of the  limitations in Figma, we took the following considerations i
 * [Gayatri Ganapathy](https://www.linkedin.com/in/gayatriganapathy/) (gganapat@sfu.ca)
 * [Mohammad Ganji](https://www.linkedin.com/in/mohganji/) (m_ganji@sfu.ca)
 
-![project_team](./readme_images/project_team.png)
+![project_team](./readme_images/Team Information.png)
+
