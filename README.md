@@ -13,7 +13,7 @@ https://youtu.be/3ToJw3dXk3E
 
 Anytime during the navigation, if you wish to return to the first page of any screen, you can do so by clicking on the corresponding tab in the navigation bar on the bottom of the screen. 
 
-## Task 1: Recipe Selection (Horizontal and Vertical Prototype):
+## Task 1: Recipe Selection:
 
 There are 4 methods
 
@@ -60,7 +60,7 @@ Click on the “Search Recipe” in the bottom tab to navigate to the first page
 
 Click on the “Search Recipe” in the bottom tab to navigate to the first page of the search recipes.
 
-## Task 2: Live Learning (Horizontal Prototype):
+## Task 2: Live Learning:
 
 Click on the Live Learning section in the navigation tab.
 
@@ -95,7 +95,7 @@ There are 3 methods to select an instructor and start a session.
 3. Click on the “Join Session” button corresponding to “Vincenzo Vauez” instructor. This would navigate you to the screen showing you and the instructor, where you are cooking and the instructor is taking a look at your kitchen. 
 4. You can explore this page as per steps 2 to 10 in Method 1 mentioned above.
 
-## Task 3: Smart Scan (Horizontal Prototype):
+## Task 3: Smart Scan:
 
 Click on the “Smart Scan” section in the navigation tab.
 
