@@ -2,15 +2,16 @@
 
 Our Prototype for Cooking Learning Application
 
-Instructions - to run the app:
-
-Anytime during the navigation, if you wish to return to the first page of any screen, you can do so by clicking on the corresponding tab in the navigation bar on the bottom of the screen. 
-
 # Prototype Link: 
 https://www.figma.com/proto/lMUIaoeBQErbsZTgu0BwX9/Final-design-Merged?node-id=0%3A1&scaling=min-zoom 
 
 # Video Link:
 https://youtu.be/3ToJw3dXk3E 
+
+
+# Instructions - to run the app:
+
+Anytime during the navigation, if you wish to return to the first page of any screen, you can do so by clicking on the corresponding tab in the navigation bar on the bottom of the screen. 
 
 ## Task 1: Recipe Selection (Horizontal and Vertical Prototype):
 
